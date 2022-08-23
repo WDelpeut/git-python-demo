@@ -1,2 +1,5 @@
 .idea/
+.venv/
 .python-version
+
+tmp/*
